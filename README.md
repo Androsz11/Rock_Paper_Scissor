@@ -1,28 +1,10 @@
 # Rock_Paper_Scissor
 
 
-By this program you can play Rock Paper Scissor alone . This is for every os. To install this program type:-
+By this program you can play Rock Paper Scissor alone . This is for every os.
 
-In linux/termux terminal-
+If you are getting bored programming and working in terminal environment then you can play this game alone.
 
-apt update && apt upgrade
+Install it manually and run the python script.
 
-apt install git
-
-apt install python && apt install python2 && apt install python3
-
-git clone https://github.com/Androsz11/Rock_Paper_Scissor
-
-cd Rock_Paper_Scissor
-
-python Rock_Paper_Scissor
-
-In windows cmd/powershell-
-
-Manually download the file and type
-
-python "path"
-
-E.g python "d:/Coding Projects/Python/Rock_Paper_Scissor.py"
-
-Then enjoy the game. If you are getting bored programming and working in terminal environment then you can play this game alone.
+This will only work in the devices in which python interpreter is installed.
